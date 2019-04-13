@@ -1,5 +1,8 @@
 # Week-2-Homework
 Starter project
+
+Below is the Code for the Visual Basic project to summarize the data.
+
 Sub StockData()
     ' CREATE LOOP THROUGH ALL SHEETS
     ' --------------------------------------------
